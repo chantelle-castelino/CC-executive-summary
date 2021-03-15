@@ -8,7 +8,9 @@
 ### Is the Solution in the Soil?
 <p align=justify>Regenerative agriculture (RA) describes practices that aim to produce a net positive environmental and social impact (Newton et al., 2020). While these are environment-dependent, several are commonly used throughout the globe, including no-till farming, cover crops, crop diversity, and managed grazing/integrating animals (Figure X). These sustainable practices all contribute to carbon sequestration, or the transfer of carbon from the atmosphere into the soil, which is the primary method whereby RA combats climate change.</p>
 
-<p align=center>![image](https://user-images.githubusercontent.com/78242064/111092189-bb649e00-850b-11eb-88ff-0cb078acd878.png)</p>
+<p align=center>
+![image](https://user-images.githubusercontent.com/78242064/111092189-bb649e00-850b-11eb-88ff-0cb078acd878.png)
+</p>
 
 <p align=justify>From a financial perspective, RA reduces various input costs associated with conventional agriculture, including tillage equipment, fuel, and chemicals, while also having been shown to produce higher profits (Al‐Kaisi and Lal, 2020; LaCanne and Lundgren, 2018). However, with analyses on the economic viability of widespread RA implementation currently unavailable, it has limited our ability to assess its potential on a global scale. 
 </p>
