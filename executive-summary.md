@@ -9,7 +9,7 @@
 <p align=justify>Regenerative agriculture (RA) describes practices that aim to produce a net positive environmental and social impact (Newton et al., 2020). While these are environment-dependent, several are commonly used throughout the globe, including no-till farming, cover crops, crop diversity, and managed grazing/integrating animals (Figure 1). These sustainable practices all contribute to carbon sequestration, or the transfer of carbon from the atmosphere into the soil, which is the primary method whereby RA combats climate change.</p>
 
 <p align="center">
-<img src="https://github.com/chantelle-castelino/CC-executive-summary/blob/main/Screen%20Shot%202021-03-14%20at%207.56.02%20PM.png" width="600"/>
+<img src="https://github.com/chantelle-castelino/CC-executive-summary/blob/main/Screen%20Shot%202021-03-14%20at%207.56.02%20PM.png" width="650"/>
 </p>
 
 <p align=justify>From a financial perspective, RA reduces various input costs associated with conventional agriculture, including tillage equipment, fuel, and chemicals, while also having been shown to produce higher profits (Al‐Kaisi and Lal, 2020; LaCanne and Lundgren, 2018). However, with analyses on the economic viability of widespread RA implementation currently unavailable, it has limited our ability to assess its potential on a global scale. 
@@ -21,7 +21,8 @@
 <p align=justify>CM faces a number of challenges limiting their feasibility for large scale production. This  includes technological issues—such as the use of fetal bovine serum, an expensive growth medium which greatly increases the cost of the product and has been difficult to replace—and concerns with public opinion. Although a number of studies have shown consumer willingness to try CM, public outreach would be necessary to allay concerns (Choudhury, Tseng and Swartz, 2020). Over 30 companies are currently working on CM and have amassed significant investment (see Figure 2).</p>
 
 <p align="center">
-<img src="https://github.com/chantelle-castelino/CC-executive-summary/blob/main/Messages%20Image(2779199033).jpeg" width="600"/>
+<img src="https://github.com/chantelle-castelino/CC-executive-summary/blob/main/Messages%20Image(2779199033).jpeg" width="650"/>
 </p>
 
 ### Conclusion
+<p align=justify>While minimizing meat consumption may be a temporary solution, large scale change in our agricultural practices may be the key to fighting climate change. There is great promise for both RA and CM as potential solutions – RA serves as an adaptive strategy while CM takes a mitigative approach. Though, further research is required to assess the large scale implementation of these strategies from a financial, political, and social perspective.</p>
