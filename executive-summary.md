@@ -21,13 +21,13 @@
 ### Can Cultured Meats Cure Climate Change?
 <p align=justify>Cultured meat (CM) is an emerging technology whereby meats are grown in a laboratory setting from stem cells. Currently, it is used to create ground meats, but producers hope to soon be able to create choice cuts, such as steaks. While it is challenging to determine the benefits of this technology due to the absence of large scale production, there is indication to suggest that CMs may offer significant benefits by reducing land and water use, when compared to conventional farming. CM also has the potential to reduce greenhouse gas emissions, should they be produced using renewable energy sources.</p>
 
-<p align=justify>CM faces a number of challenges limiting their feasibility for large scale production. This  includes technological issues—such as the use of fetal bovine serum, an expensive growth medium which greatly increases the cost of the product and has been difficult to replace—and concerns with public opinion. Although a number of studies have shown consumer willingness to try CM, public outreach would be necessary to allay concerns (Choudhury, Tseng and Swartz, 2020). Over 30 companies are currently working on CM and have amassed significant investment (see Figure 2).</i></p>
+<p align=justify>CM faces a number of challenges limiting their feasibility for large scale production. This  includes technological issues—such as the use of fetal bovine serum, an expensive growth medium which greatly increases the cost of the product and has been difficult to replace—and concerns with public opinion. Although a number of studies have shown consumer willingness to try CM, public outreach would be necessary to allay concerns (Choudhury, Tseng and Swartz, 2020). Over 30 companies are currently working on CM and have amassed significant investment (see Figure 2).</p>
 
 <p align="center">
 <img src="https://github.com/chantelle-castelino/CC-executive-summary/blob/main/Messages%20Image(2779199033).jpeg" width="650"/>
 </p>
 
-<p align="center"> <i><b> Figure 2: </b> Graph of publicly disclosed investment in CM companies (millions of USD) from 2015-2020. Green bars show the year’s investment and grey bars show the cumulative investment of the previous years. Numbers above each bar show the cumulative investment for each year. Figure created by the authors using data from (Choudhury, Tseng and Swartz, 2020). </center>
+<p align="center"> <i><b> Figure 2: </b> Graph of publicly disclosed investment in CM companies (millions of USD) from 2015-2020. Green bars show the year’s investment and grey bars show the cumulative investment of the previous years. Numbers above each bar show the cumulative investment for each year. Figure created by the authors using data from (Choudhury, Tseng and Swartz, 2020). </i></p>
 
 
 ### Conclusion
