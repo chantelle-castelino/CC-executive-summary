@@ -21,7 +21,7 @@
 <p align=justify>CM faces a number of challenges limiting their feasibility for large scale production. This  includes technological issues—such as the use of fetal bovine serum, an expensive growth medium which greatly increases the cost of the product and has been difficult to replace—and concerns with public opinion. Although a number of studies have shown consumer willingness to try CM, public outreach would be necessary to allay concerns (Choudhury, Tseng and Swartz, 2020). Over 30 companies are currently working on CM and have amassed significant investment (see Figure 2).</p>
 
 <p align="center">
-<img src="https://github.com/chantelle-castelino/CC-executive-summary/blob/main/Messages%20Image(2779199033).jpeg" width="1000"/>
+<img src="https://github.com/chantelle-castelino/CC-executive-summary/blob/main/Messages%20Image(2779199033).jpeg" width="800"/>
 </p>
 
 ### Conclusion
