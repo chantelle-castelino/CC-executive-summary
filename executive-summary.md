@@ -27,6 +27,9 @@
 <img src="https://github.com/chantelle-castelino/CC-executive-summary/blob/main/Messages%20Image(2779199033).jpeg" width="650"/>
 </p>
 
+<p align="center"> <i><b> Figure 2: </b> Graph of publicly disclosed investment in CM companies (millions of USD) from 2015-2020. Green bars show the year’s investment and grey bars show the cumulative investment of the previous years. Numbers above each bar show the cumulative investment for each year. Figure created by the authors using data from (Choudhury, Tseng and Swartz, 2020). </center>
+
+
 ### Conclusion
 <p align=justify>While minimizing meat consumption may be a temporary solution, large scale change in our agricultural practices may be the key to fighting climate change. There is great promise for both RA and CM as potential solutions – RA serves as an adaptive strategy while CM takes a mitigative approach. Though, further research is required to assess the large scale implementation of these strategies from a financial, political, and social perspective.</p>
 
