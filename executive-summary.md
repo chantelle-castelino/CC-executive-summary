@@ -12,7 +12,7 @@
 <img src="https://github.com/chantelle-castelino/CC-executive-summary/blob/main/Screen%20Shot%202021-03-14%20at%207.56.02%20PM.png" width="650"/>
 </p>
 
-<p align="center"> *Figure 1: Regenerative agriculture practices of no-till farming, cover crops, crop diversity, and managed grazing. Each practice contributes to carbon sequestration in a unique way. Figure created by authors.* </p>
+<p align="center"> <i><b> Figure 1: </b> Regenerative agriculture practices of no-till farming, cover crops, crop diversity, and managed grazing. Each practice contributes to carbon sequestration in a unique way. Figure created by authors. </center>
 
 
 <p align=justify>From a financial perspective, RA reduces various input costs associated with conventional agriculture, including tillage equipment, fuel, and chemicals, while also having been shown to produce higher profits (Al‐Kaisi and Lal, 2020; LaCanne and Lundgren, 2018). However, with analyses on the economic viability of widespread RA implementation currently unavailable, it has limited our ability to assess its potential on a global scale. 
