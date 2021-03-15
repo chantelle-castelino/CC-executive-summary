@@ -10,11 +10,9 @@
 
 <p align="center">
 <img src="https://github.com/chantelle-castelino/CC-executive-summary/blob/main/Screen%20Shot%202021-03-14%20at%207.56.02%20PM.png" width="650"/>
-
-
-***Figure 1:*** *Regenerative agriculture practices of no-till farming, cover crops, crop diversity, and managed grazing. Each practice contributes to carbon sequestration in a unique way. Figure created by authors.*
-
 </p>
+
+<p align="center"> *Figure 1: Regenerative agriculture practices of no-till farming, cover crops, crop diversity, and managed grazing. Each practice contributes to carbon sequestration in a unique way. Figure created by authors.* </p>
 
 
 <p align=justify>From a financial perspective, RA reduces various input costs associated with conventional agriculture, including tillage equipment, fuel, and chemicals, while also having been shown to produce higher profits (Al‐Kaisi and Lal, 2020; LaCanne and Lundgren, 2018). However, with analyses on the economic viability of widespread RA implementation currently unavailable, it has limited our ability to assess its potential on a global scale. 
@@ -31,3 +29,15 @@
 
 ### Conclusion
 <p align=justify>While minimizing meat consumption may be a temporary solution, large scale change in our agricultural practices may be the key to fighting climate change. There is great promise for both RA and CM as potential solutions – RA serves as an adaptive strategy while CM takes a mitigative approach. Though, further research is required to assess the large scale implementation of these strategies from a financial, political, and social perspective.</p>
+
+### References 
+Al‐Kaisi, M.M. and Lal, R., 2020. Aligning science and policy of regenerative agriculture. Soil Science Society of America Journal, 84(6), pp.1808–1820. https://doi.org/10.1002/saj2.20162.
+Bryant, C., van Nek, L. and Rolland, N.C.M., 2020. European Markets for Cultured Meat: A Comparison of Germany and France. Foods (Basel, Switzerland), 9(9). https://doi.org/10.3390/foods9091152.
+Choudhury, D., Tseng, T.W. and Swartz, E., 2020. The Business of Cultured Meat. Trends in Biotechnology, 38(6), pp.573–577. https://doi.org/10.1016/j.tibtech.2020.02.012.
+Gaydhane, M., Mahanta, U., Sharma, C., Khandelwal, M. and Ramakrishna, S., 2018. Cultured meat: state of the art and future. Biomanufacturing Reviews, 3. https://doi.org/10.1007/s40898-018-0005-1.
+LaCanne, C.E. and Lundgren, J.G., 2018. Regenerative agriculture: merging farming and natural resource conservation profitably. PeerJ, 6, p.e4428. https://doi.org/10.7717/peerj.4428.
+Levy, B.S. and Patz, J.A., 2015. Climate Change, Human Rights, and Social Justice. Annals of Global Health, 81(3), pp.310–322. https://doi.org/10.1016/j.aogh.2015.08.008.
+Lynch, J. and Pierrehumbert, R., 2019. Climate Impacts of Cultured Meat and Beef Cattle. Frontiers in Sustainable Food Systems, [online] 3. https://doi.org/10.3389/fsufs.2019.00005.
+Mayhall, T.A., 2019. The Meat of the Matter: Regulating a Laboratory-Grown Alternative H. Thomas Austern Writing Competition Winners. Food and Drug Law Journal, 74(1), pp.151–169.
+Newton, P., Civita, N., Frankel-Goldwater, L., Bartel, K. and Johns, C., 2020. What Is Regenerative Agriculture? A Review of Scholar and Practitioner Definitions Based on Processes and Outcomes. Frontiers in Sustainable Food Systems, [online] 4. https://doi.org/10.3389/fsufs.2020.577723.
+
