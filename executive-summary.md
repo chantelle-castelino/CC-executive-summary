@@ -20,9 +20,9 @@
 </p>
 
 ### Can Cultured Meats Cure Climate Change?
-<p align=justify>Cultured meat (CM) is an emerging technology whereby meats are grown in a laboratory setting from stem cells. Currently, it is used to create ground meats, but producers hope to soon be able to create choice cuts, such as steaks (Gaydhane et al., 2018). While it is challenging to determine the benefits of this technology due to the absence of large scale production, there is indication to suggest that CMs may offer significant benefits by reducing land and water use, when compared to conventional farming (Mayhall, 2019). CM also has the potential to reduce greenhouse gas emissions, should they be produced using renewable energy sources (Lynch and Pierrehumbert, 2019).</p>
+<p align=justify>Cultured meat (CM) is an emerging technology whereby meats are grown in a laboratory setting from stem cells. Currently, it is used to create ground meats, but producers hope to soon be able to create choice cuts, such as steaks (Gaydhane et al., 2018). While it is challenging to determine the benefits of this technology due to the absence of large-scale production, there is indication to suggest that CMs may offer significant benefits by reducing land and water use, when compared to conventional farming (Mayhall, 2019). CM also has the potential to reduce greenhouse gas emissions, should they be produced using renewable energy sources (Lynch and Pierrehumbert, 2019).</p>
 
-<p align=justify>CM faces a number of challenges limiting their feasibility for large scale production. This  includes technological issues—such as the use of fetal bovine serum, an expensive growth medium which greatly increases the cost of the product and has been difficult to replace—and concerns with public opinion (Choudhury, Tseng and Swartz, 2020). Although a number of studies have shown consumer willingness to try CM, public outreach would be necessary to allay concerns (Bryant, van Nek and Rolland, 2020). Over 30 companies are currently working on CM and have amassed significant investment (see Figure 2).</p>
+<p align=justify>CM faces a number of challenges limiting their feasibility for large-scale production. This  includes technological issues—such as the use of fetal bovine serum, an expensive growth medium which greatly increases the cost of the product and has been difficult to replace—and concerns with public opinion (Choudhury, Tseng and Swartz, 2020). Although a number of studies have shown consumer willingness to try CM, public outreach would be necessary to allay concerns (Bryant, van Nek and Rolland, 2020). Over 30 companies are currently working on CM and have amassed significant investment (Figure 2).</p>
 
 <p align="center">
 <img src="https://github.com/chantelle-castelino/CC-executive-summary/blob/main/Messages%20Image(2779199033).jpeg" width="650"/>
@@ -32,7 +32,7 @@
 
 
 ### Conclusion
-<p align=justify>While minimizing meat consumption may be a temporary solution, large scale change in our agricultural practices may be the key to fighting climate change. There is great promise for both RA and CM as potential solutions – RA serves as an adaptive strategy while CM takes a mitigative approach. Though, further research is required to assess the large scale implementation of these strategies from a financial, political, and social perspective.</p>
+<p align=justify>While minimizing meat consumption may be a temporary solution, large-scale change in our agricultural practices may be the key to fighting climate change. There is great promise for both RA and CM as potential solutions – RA serves as an adaptive strategy while CM takes a mitigative approach. Though, further research is required to assess the large-scale implementation of these strategies from a financial, political, and social perspective.</p>
 
 ### References 
 Al‐Kaisi, M.M. and Lal, R., 2020. Aligning science and policy of regenerative agriculture. Soil Science Society of America Journal, 84(6), pp.1808–1820. https://doi.org/10.1002/saj2.20162.
