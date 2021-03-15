@@ -1,4 +1,5 @@
 # <p align=center> Eating Meat: The Problem or the Solution? <br> The Potential of Regenerative Agriculture & Cultured Meats to Curb Climate Change </p> 
+### <p align=center> An Executive Summary </p>
 #### <p align=center> Saif Alam (400188337), Kristen Arnold (400181427), Cohen Bolliger (400181436), <br> and Chantelle Castelino (400191459)<br><br>
 
 
