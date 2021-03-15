@@ -10,7 +10,7 @@
 
 <p align=center>
   
-![image](https://user-images.githubusercontent.com/78242064/111092189-bb649e00-850b-11eb-88ff-0cb078acd878.png)
+![image](https://github.com/chantelle-castelino/CC-executive-summary/blob/main/Screen%20Shot%202021-03-14%20at%207.56.02%20PM.png)
 
 </p>
 
